@@ -14,7 +14,7 @@ body {
 
 .container {
   width: 100%;
-  /* max-width: 960px; */
+  /* max-width: 960px; .... each of those pages were different sizes/ compensation */ 
   margin: 0 auto;
   clear: both;
 }
