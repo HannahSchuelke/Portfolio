@@ -3,7 +3,8 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777;
-  background: url("../images/concrete_seamless.png");
+  background: url("https://secure.img2-fg.wfcdn.com/im/70972113/resize-h600-w600%5Ecompr-r85/3267/32677852/NuWallpaper+18%27+x+20.5%22+Carrara+Marble+Peel+and+Stick+Wallpaper.jpg");
+  background-size: 100%;
 }
 
 * {
@@ -35,7 +36,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #129bab;
 }
 
 h1 {
@@ -74,7 +75,7 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: #129bab;
 }
 
 nav {
@@ -107,7 +108,7 @@ footer {
   color: #ccc;
   text-align: center;
   background: #666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid #129bab;
   height: 50px;
 }
 
@@ -123,6 +124,7 @@ h3, h2 {
 #main-container {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
+  margin-left: 100px;
 }
 
 .main-section {
@@ -140,7 +142,7 @@ h3, h2 {
 .work {
   position: relative;
   float: left;
-  width: 250px;
+  width: 225px;
   margin: 20px 0 25px;
   overflow: auto;
 }
@@ -171,7 +173,7 @@ h3, h2 {
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: #129bab;
   border-bottom: 0;
 }
 
@@ -219,6 +221,6 @@ input[type=submit] {
   font-size: 18px;
   color: #fff;
   cursor: pointer;
-  background: #4aaaa5;
+  background: #129bab;
   border: 0 none;
 }
